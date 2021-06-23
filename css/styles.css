@@ -1,0 +1,145 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+
+h1 {
+    font-size: 5.625em;
+    color: #66BFBF;
+    font-family: "Sacramento", cursive;
+    margin: 50px auto 0;
+}
+
+h2 {
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    /* font-weight: normal; */
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    font-size: 1.5em;
+}
+
+a {
+    color: #11999E;
+    padding: 30px;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+p {
+    color: #40514E;
+    font-size: 1.2rem;
+    font-weight: bold;
+    line-height: 2;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 6%;
+    margin: 100px auto 100px auto;
+    color: #EAF6F6;
+}
+
+.end-desc {
+    margin-top: 50px;
+}
+
+.top_container {
+    background-color: #CAF7E3;
+    position: relative;
+    padding-top: 100px;
+}
+
+
+.bottom-container {
+    background-color: #66BFBF;
+    margin: 10px 0 0 0;
+    padding: 50px;
+
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.bottom_cloud {
+    position: absolute;
+    left: 500px;
+    bottom: 300px;
+}
+
+ .top_cloud {
+     position: absolute;
+     right: 500px;
+     top: 50px;
+ }
+
+.programmer {
+    line-height: 2;
+    font-weight: normal;
+}
+
+.skill-row {
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+
+.developer {
+    width: 200px;
+    float: left;
+    margin-right: 30px;
+}
+
+.gamer {
+    width: 200px;
+    float: right;
+    margin-left: 30px;
+}
+
+.foot-trademark {
+    margin-top: 50px;
+    color: #EAF6F6;
+    font-size: 0.8rem;
+}
+
+.btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #EAF6F6;
+   font-family: Arial;
+   font-size: 25px;
+   padding: 20px;
+   background-color: #66BFBF;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 50px auto 100px auto;
+}
+
+.btn:hover {
+   background: #11999E;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.pfp {
+    margin-top: 50px;
+    width: 200px;
+}
+
+.mountain {
+    margin: 0;
+}
