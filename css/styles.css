@@ -15,13 +15,12 @@ h2 {
     font-size: 2.5rem;
     font-family: 'Montserrat', sans-serif;
     color: #66BFBF;
-    /* font-weight: normal; */
 }
 
 h3 {
     font-family: 'Montserrat', sans-serif;
     color: #11999E;
-    font-size: 1.5em;
+    font-size: 1.5rem;
 }
 
 a {
@@ -33,7 +32,7 @@ a {
 
 p {
     color: #40514E;
-    font-size: 1.2rem;
+    font-size: 0.8rem;
     font-weight: bold;
     line-height: 2;
 }
@@ -47,8 +46,19 @@ hr {
     color: #EAF6F6;
 }
 
+.contact-me {
+    width: 50%;
+    margin: auto;
+}
+
+.intro {
+    width: 50%;
+    margin: auto;
+}
+
 .end-desc {
-    margin-top: 50px;
+    width: 50%;
+    margin: 50px auto 0 auto;
 }
 
 .top_container {
@@ -106,9 +116,9 @@ hr {
 }
 
 .foot-trademark {
-    margin-top: 50px;
+    margin: 50px auto 0 auto;
     color: #EAF6F6;
-    font-size: 0.8rem;
+    width: 30%;
 }
 
 .btn {
